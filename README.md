@@ -1,4 +1,4 @@
-# spring-boot-jpa-mysql-movies-crud
+# Demonstration of CRUD operations over a movies data base using spring-boot, jpa and mysql connector
 
 # Create
 # Request type: POST
